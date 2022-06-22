@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title>MY PROFILE - LIFESTYLES</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="logo.jpg">
+</a>
+</header>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="about.html">About me</a></td>
+<td><a href="contact.html">Contact us</a></td>
+</tr>
+</table>
+<hr>
+
+</nav>
+</body>
+</html>
